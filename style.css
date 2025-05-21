@@ -1,0 +1,237 @@
+#sec1-img1{
+    height: 160px;
+    width: 630px;   
+}
+#sec-1{
+    display: flex;
+    
+    justify-content: space-between;
+}
+.xp{
+ height: auto;
+   border-left: 35px solid gray;
+     border-right: 35px solid gray;
+     margin-left: 00px;
+  margin-right: 00px;
+  margin-top: 0%;
+}
+
+#a-1{
+    display: flex;
+
+}
+#sec-1-h1{
+   width: 450px;
+   padding-left: 200px;
+}
+.topheading{
+  
+    
+    margin-right: 27px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+    font-weight: bolder;
+
+    font-size: 17px;
+}
+#navigation{
+    height: 60px;
+    background-color:  brown;
+    align-items: center;
+    width: 100%;
+}
+#sec-2-headings{
+ margin-right: 75px;
+    float: right;
+    display: flex;
+    gap: 38px;
+    font-size: 17px;
+  font-weight: lighter;
+ 
+    font-family: sans-serif;
+    color: aliceblue;
+}
+#sub-1:hover{
+    background-color: rgb(255, 123, 0);
+margin-bottom: 5px;
+  padding-left: 20px;
+   height: 60px;
+   width: 80px;
+text-decoration: none;
+cursor: pointer;
+}
+.anker-1{
+     color: beige;
+      text-decoration: none;
+      align-content: center;
+}
+#sub-2:hover{
+    background-color: aqua;
+    width: 160px;
+    align-items: center;
+    padding-left: 35px;
+      height: 60px;
+  cursor: pointer;
+   margin-bottom: 5px;
+   text-decoration: none;
+}
+#sub-3:hover{
+    background-color: chartreuse;
+    width: 90px;
+    padding-left: 30px;
+    margin-bottom: 5px;
+    height: 60px;
+}
+#sub-4:hover{
+    background-color: crimson;
+    width: 200px;
+    padding-left: 25px;
+    height: 60px;
+}
+#sub-5:hover{
+    background-color: darksalmon;
+    width: 110px;
+    padding-left: 25px;
+    height: 60px;
+}
+#sub-6:hover{
+    background-color: fuchsia;
+    width: 120px;
+    padding-left: 20px;
+    margin-bottom: 5px;
+    height: 60px;
+}
+#gurantee_banner{
+    height: 420px;
+    width: 650px;
+}
+.sec-3-im-1{
+ 
+    margin-top: 35px;
+    margin-left: 35px;
+    
+}
+#section-3{
+    display: flex;
+}
+.sec-3part2{
+     width: 660px;
+    margin-top: 35px;
+    margin-left: 20px;
+  height: 420px;
+  margin-right: 35px;
+
+}
+.pic{
+    position: relative;
+      pointer-events: none;
+     width: 530px;
+  height: 420px;
+ 
+
+}
+.down{
+    position: absolute;
+    top: 275px;
+    background-color: brown;
+    font-size: 30px;
+  text-align: center;
+    color: aliceblue;
+    width: 210px;
+    height: 50px;
+  
+    align-content: center;
+    font-weight: bolder;
+}
+.h2{
+   
+    position: absolute;
+    top: 275px;
+    font-size: 20px;
+       font-family:  sans-serif;
+    font-weight: bold;
+padding-left: 245px;
+color: rgb(24, 4, 4);
+margin-top: -12px;
+letter-spacing: 1px;
+}
+.h1-h2{
+    display: flex;
+  
+}
+.anker-2{
+    text-decoration: none;
+    color: darkblue;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: 32px;
+    letter-spacing: -1px;
+}
+.s3-heading3{
+    margin-top: -15px;
+    position: absolute;
+    top: 350px;
+    align-content: center;
+    align-items: center;
+    margin-left: 30px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    margin-right: 20px;
+    font-style: normal;
+font-weight: 530;
+color: rgb(24, 4, 4); 
+
+}
+
+.anker-3{
+    font-family:  sans-serif;
+    font-weight: bolder;
+    text-decoration: none;
+ color: rgb(24, 4, 4);
+    font-size: 20px;
+}
+.heading-4{
+    position:absolute ;
+    top: 400px;
+    justify-self: right;
+   font-family: sans-serif;
+   font-size: 12px;
+   margin-left: 30px;
+}
+.box-1{
+    margin-top: 10px;
+    width: 180px;
+    height: 20px;
+}
+.form-1{
+    position: absolute;
+    top: 400px;
+    padding-left: 105px;
+    background-color: blue;
+    width: 00px;
+    height: 00px;
+}
+.s3-maindiv{
+    display: flex;
+
+}
+
+.final{
+ position: absolute;
+    top: 400px;
+    padding-left: 325px;
+    rotate: 10deg;
+    background-color: aquamarine;
+    height: 00px;
+}
+#bigbox-1-2{
+    width: 460px;
+    height: 60px;  
+    font-size: 15px;
+    
+}
+.bigbox-1{
+    position: absolute;
+    top: 525px;
+    margin-left: 32px;
+}
