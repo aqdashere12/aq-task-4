@@ -102,7 +102,7 @@ cursor: pointer;
     height: 60px;
 }
 #gurantee_banner{
-    height: 420px;
+    height: 400px;
     width: 650px;
 }
 .sec-3-im-1{
@@ -118,7 +118,7 @@ cursor: pointer;
      width: 660px;
     margin-top: 35px;
     margin-left: 20px;
-  height: 420px;
+  height: 400px;
   margin-right: 35px;
 
 }
@@ -126,7 +126,7 @@ cursor: pointer;
     position: relative;
       pointer-events: none;
      width: 530px;
-  height: 420px;
+  height: 400px;
  
 
 }
@@ -228,10 +228,210 @@ color: rgb(24, 4, 4);
     width: 460px;
     height: 60px;  
     font-size: 15px;
-    
+    font-family: sans-serif;
+    font-weight: bold;
 }
 .bigbox-1{
     position: absolute;
     top: 525px;
     margin-left: 32px;
+}
+.last-h{
+    position: absolute;
+   margin-left: 22px;
+    top: 610px;
+}
+.ask{
+    background-color: rgb(173, 14, 14);
+    width: 278px;
+    height: 50px;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    font-family: sans-serif;
+    color: aliceblue;
+    font-size: 12px;
+}
+.ask-bullet{
+    display: flex;
+    position: absolute;
+    top: 650px;
+    padding-left: 220px;
+    margin-top: -40px;
+    
+}
+.bullet_white{
+width: 00px;
+height: 00px;
+padding-left: 10px;
+margin-top: -5px;
+}
+.bullet{
+    height: 12px;
+    width: 12px;
+    margin-left: -32px;
+    margin-top: 25px;
+}
+
+#section-4{
+    display: flex;
+    margin-left: 55px;
+    margin-top: 30px;
+    margin-right: 35px;
+    height: 450px;
+}
+.s4-div1{
+    width: 32%; 
+    margin-top: 10px; 
+}
+
+.anker-4{
+    font-family: sans-serif;
+     color: brown;
+     font-size: 19px; 
+     font-weight: bold;
+      text-decoration: none;
+}
+.s4-heading1{
+    font-size: 27px;
+    text-decoration: none;
+}
+.s4-heading2{
+    font-size: 18px;
+   color: rgb(56, 52, 52);
+    font-family: sans-serif;
+    padding: 00px;
+
+}
+.s4-heading3{
+
+     font-size: 18px;
+   color: rgb(56, 52, 52);
+    font-family: sans-serif;
+    padding: 0%;
+}
+.s4-im-1{
+    height: 133px;
+    padding-top: 8px;
+    width: 90px;
+    margin-right: 20px;
+}
+.s4-line1{
+   width: 220px; 
+   background-color: rgb(83, 82, 82);
+    height: 0.5px;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+
+.s4-heading4{
+    font-family: sans-serif;
+    background-color: brown;
+    color: aliceblue;
+  height: 35px;
+    width: 140px;
+    text-align: center;
+    align-content: center;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   margin-left: 180px;
+   margin-top: -10px;
+   border-color: brown;
+   cursor: pointer;
+}
+
+.s4-div2{ 
+   
+     width: 36%;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.div2-anker1{
+
+    text-decoration: none;
+    color: brown;
+}
+.div2-line-1{
+    width: 220px;
+    color: gray;
+    height: 0.2px;
+    background-color: gray;
+}
+
+.div2-button1{
+    background-color: brown;
+    align-content: center;
+    display: flex;
+    height: 35px;
+    color: aliceblue;
+    align-items: center;
+    font-size: 15px;
+    font-family: sans-serif;
+    width: 140px;
+    margin-left: 55px;
+}
+
+.div2-img2{
+    margin-top: 30px;
+    margin-left: 14px;
+}
+.div2-button2{
+   background-color: brown;
+    align-content: center;
+    display: flex;
+    height: 35px;
+    color: aliceblue;
+    align-items: center;
+    font-size: 15px;
+    font-family: sans-serif;
+    width: 140px;
+    margin-left: 55px;
+    margin-top: 0px;
+}
+
+.div2-line-2{
+      width: 220px;
+    color: gray;
+    height: 0.2px;
+    background-color: gray;
+
+}
+
+.s4-div3{ 
+     width: 32%;
+
+    margin-top: 10px;
+    margin-left: 20px;
+    
+
+}
+.div3-images{
+    display: flex;
+    margin-top: 35px;
+    justify-content: space-around;
+}
+.div3-line1{
+    padding-left: 100px;
+}
+.div3-button1{
+    background-color: brown;
+    color: aliceblue;
+    height: 35px;
+    width: 140px;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    margin-top: -9px;
+    margin-left: 168px;
+}
+.line-1{
+    height: 330px;
+    margin-top: 33px;
+}
+.line-2{
+    height: 330px;
+    margin-top: 33px;
 }
